@@ -2,7 +2,7 @@
 This is a simple todo-list practice   
 In the index, you can view your todo-list.
 
-##Function
+## Function
 1. Create: create a new todo item.
 2. Detail: view the detail content of the todo item.
 3. Edit: edit the name of the todo item.
